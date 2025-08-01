@@ -1,1 +1,1 @@
-Course materials (hw+notes, no exams) for MATH 371 (Numerical Methods) at University of Michigan. These notes and homeworks are heavily inspired by John Strain's MATH 128A at Berkeley.
+Course materials (course notes and homework+solutions, but no exams) for MATH 371 (Numerical Methods) which I at University of Michigan in winter '24 and fall '24. These notes and homeworks are heavily inspired by John Strain's MATH 128A at Berkeley.
